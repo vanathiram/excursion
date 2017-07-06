@@ -1,0 +1,45 @@
+body
+{
+  font:verdana;
+  background-color: black;
+  text-align: center;
+}
+h1
+{
+  font-family: verdana;
+  font-size:50px;
+  color:white;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2
+{
+
+  font-size: 16px;
+text-decoration: underline;
+  color:aquamarine;
+  text-align: center;
+}
+
+p{
+
+font-family: verdana;
+font-size:21px;
+color:gray;
+font-weight: normal;
+text-align: center;}
+h3
+{
+  font-family: verdana;
+  font-size:42px;
+  color:white;
+  font-weight: 300;
+  text-align: center;
+}
+h4
+{
+  font-family: verdana;
+  color:gray;
+  text-align: right;
+}
